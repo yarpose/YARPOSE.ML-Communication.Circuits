@@ -29,7 +29,7 @@ This project is based on:
 5. How to install and use required tools/libraries
 
 
-# ALL Circuit are drawn via Python in Jypyter
+# ALL Circuits are drawn via Python in Jypyter
 ALL the schmatics of the circuits are reporduced utilizing ```schemdraw``` python library.
 
 # Circuit simulation utilizing PySpice
