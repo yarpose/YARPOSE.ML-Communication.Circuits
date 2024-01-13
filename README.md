@@ -53,7 +53,7 @@ We followed stand-alone coding for each example just like insert your spoon in D
 # Fully open-source course
 The project is totally open-source in hope of help to extended ease of undersating for "Basics of Communication Circuits".
 
-# Contests are in Compliance with "Basics of Communication Circuits "
+# Contents are in Compliance with "Basics of Communication Circuits "
 The contents of this project are ready to use for secod year undergraduate courses like:
  1. Basics of Communication Circuits
  2. Communication Circuits I
