@@ -3,7 +3,7 @@ By [Ali Pakzad](https://www.linkedin.com/in/ali-pakzad-075a36227/) and [M. B. Gh
 
 Version 2024.01
 
-A Full open-source/Full with Python/ interactive course for all who like to know "What is Communication Circuits?" from scratch to basic applications.
+A Full open-source/Full with Python/ interactive course for all who like to know "What are Communication Circuits?" from scratch to basic applications.
 This is the repo of **ML-Assisted Basics of Communication Circuits for ALL**  project. It brings ALL of **Basic Communication Circuits** into browser via Python jupyter including examples, plots, equations, simulations and narration. The narrations of text is generated via ML tools.
 
 
