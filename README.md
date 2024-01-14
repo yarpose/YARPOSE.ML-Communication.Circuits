@@ -10,7 +10,7 @@ This is the repo of **ML-Assisted Basics of Communication Circuits for ALL**  pr
 This project is based on:
 
 1. Python
-2. Jupyetr notebook and runnable on Google colab
+2. Jupyter notebook and runable on Google colab
 3. schemdraw library
 4. PySpice simulation wrapper
 5. ElevenLabs.io (ML generated human voices for whole of the project)
